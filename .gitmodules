@@ -1,3 +1,6 @@
 [submodule "module/Midnet"]
 	path = module/Midnet
 	url = https://github.com/comcduarte/midnetModule.git
+[submodule "module/Workflow"]
+	path = module/Workflow
+	url = https://github.com/comcduarte/workflowModule.git
